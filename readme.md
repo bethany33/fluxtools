@@ -10,3 +10,5 @@ Use FLUX.1 Fill, FLUX.1 Redux, FLUX.1 Depth, FLUX.1 Canny online for free.
 - FLUX.1 Redux - An adapter designed for blending and generating new images and text prompts from existing inputs.
 - FLUX.1 Depth - AI Models designed to provide structural guidance using a depth map taken from an input image along with a text prompt.
 - FLUX.1 Canny - Models designed to provide structural guidance using canny edges taken from an input image along with a text prompt.
+
+https://fluxtools.online/
