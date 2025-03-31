@@ -12,3 +12,5 @@ Use FLUX.1 Fill, FLUX.1 Redux, FLUX.1 Depth, FLUX.1 Canny online for free.
 - FLUX.1 Canny - Models designed to provide structural guidance using canny edges taken from an input image along with a text prompt.
 
 https://fluxtools.online/
+
+ [flux dev](https://fluxdev.net/)
